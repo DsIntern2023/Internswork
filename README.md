@@ -7,7 +7,7 @@
 
 You have finally discovered our Github profile. <br>
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better. <br>
-Ask me anything <a href="https://github.com/DsIntern2023/DsIntern2023/issues/new"><b>here</b></a><br>
+Ask me anything <a href="https://github.com/DsIntern2023/Internswork/issues/new"><b>here</b></a><br>
 or <a href="mailto:ds.intern15@gmail.com"><b>email</b></a> us
 
 <i>Happy Learning!</i> 😊
